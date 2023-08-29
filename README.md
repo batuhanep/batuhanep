@@ -7,4 +7,4 @@ I am an economics graduate who is willing to improve himself both in the field o
 
 🌱 I’m currently learning R, SQL, Tableau, Python and Excel.
 
--->
+

@@ -7,5 +7,6 @@ I am an economics graduate who is willing to improve himself both in the field o
 
 🌱 I’m currently learning R, SQL, Tableau, Python and Excel.
 
+![image](https://github.com/batuhanep/batuhanep/assets/111178652/e6c922ec-2f7c-43ef-b9c1-96f374744a5c)
 
 ![image](https://github.com/batuhanep/batuhanep/assets/111178652/3c649d16-fd69-47f2-81d1-5d73bfc530b7)

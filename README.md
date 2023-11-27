@@ -6,4 +6,5 @@ I am an economics graduate who is willing to improve himself both in the field o
 
 🌱 Software programs I've learned so far: R Programming, Python, SQL, Excel, Tableau, SAP.
 
-https://github.com/batuhanep/Istanbul-Natural-Gas-Consumption-Analysis-SQL-Tableau/blob/main/Tableau%20Dashboard.png?raw=true
+![image](https://github.com/batuhanep/batuhanep/assets/111178652/998e99b5-2209-4f64-b98e-2c4aac1f196f)
+

@@ -7,4 +7,4 @@ I continue my education as a Software Engineering and Data Science master's stud
 🌱 Software programs I've learned so far: R Programming, Python, SQL, Tableau, SAP.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/batuhanep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanep&layout=donut)](https://github.com/batuhanep/github-readme-stats)

@@ -18,5 +18,3 @@ Mathematics for Data Science
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanep&layout=donut)](https://github.com/batuhanep/github-readme-stats)
-
-![image](https://github.com/user-attachments/assets/b6e197b0-5162-475e-9ee4-17da041c1bb8)

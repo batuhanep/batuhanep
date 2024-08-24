@@ -6,13 +6,13 @@
 
 Courses included in the master's program:
 
-Big Data and Data Science
-Applied Statistics
-Statistical Programming Languages (🐍Python, R)
-Supervised Machine Learning
-Unsupervised Learning Methods
-Statistical Learning
-Mathematics for Data Science
+- Big Data and Data Science
+- Applied Statistics
+- Statistical Programming Languages (🐍Python, R)
+- Supervised Machine Learning
+- Unsupervised Learning Methods
+- Statistical Learning
+- Mathematics for Data Science
 
 🌱 Software programs I've learned so far: R Programming, Python, SQL, Tableau, SAP.
 

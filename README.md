@@ -2,7 +2,7 @@
 
 🔭 🥷 I'm currently working on my data science skills. I put my knowledge into practice by working on projects with real-world data sets.
 
-📚 📖 I am in the Data Operations Specialist phase of my career journey where I actively use Python and SQL and am a Data Management and Analysis graduate student at Dokuz Eylul University.
+📚 📖 I am in the Data Sciense&Ops Specialist phase of my career journey where I actively use Python and SQL and I am a Data Management and Analysis master's student at Dokuz Eylul University.
 
 Courses included in the master's program:
 

@@ -45,9 +45,8 @@ Here are some of the technologies I work with:
 
 ### Pinned Projects
 
-- **[NLP-Product-Matching-Algorithm](https://github.com/batuhanep/NLP-Product-Matching-Algorithm)**: An advanced algorithm that uses a hybrid NLP model (SBERT & TF-IDF) to match similar products with high accuracy.
+- **[NLP-Product-Matching-Algorithm](https://github.com/batuhanep/NLP-Product-Matching-Algorithm)**: An algorithm that uses a hybrid NLP model to match similar products with high accuracy.
 - **[Demo-description-keyword-improvement](https://github.com/batuhanep/Demo-description-keyword-improvement)**: A script to extract relevant keywords from product descriptions using a hybrid semantic and statistical model.
-- **[Istanbul-Natural-Gas-Consumption-Analysis-SQL-Tableau](https://github.com/batuhanep/Istanbul-Natural-Gas-Consumption-Analysis-SQL-Tableau)**: A comprehensive analysis of natural gas consumption in Istanbul, performed with SQL and visualized in Tableau.
 - **[Data-Science-Projects](https://github.com/batuhanep/Data-Science-Projects)**: A collection of my data science projects and experiments.
 
 ---

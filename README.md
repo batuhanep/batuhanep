@@ -55,4 +55,9 @@ Here are some of the technologies I work with:
 
 You can find my work and connect with me on other platforms:
 
-<p align="left"> <a href="https://www.linkedin.com/in/batuhan-özdemir-b073b21b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-ozdemir" height="30" width="40" /></a> <a href="https://www.kaggle.com/batuhanep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/kaggle.svg" alt="batuhanep" height="30" width="40" /></a> <a href="https://public.tableau.com/app/profile/batuhan.zdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/tableau.svg" alt="batuhan.zdemir" height="30" width="40" /></a> <a href="https://medium.com/@ozdemirbatu.80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/medium.svg" alt="@ozdemirbatu.80" height="30" width="40" /></a> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/batuhan-özdemir-b073b21b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhan-ozdemir" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/batuhanep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="batuhanep" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/batuhan.zdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="batuhan.zdemir" height="30" width="40" /></a>
+<a href="https://medium.com/@ozdemirbatu.80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ozdemirbatu.80" height="30" width="40" /></a>
+</p>

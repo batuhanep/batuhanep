@@ -45,7 +45,7 @@ Here are some of the technologies I work with:
 
 ### Pinned Projects
 
-- **[NLP-Product-Matching-Algorithm](https://github.com/batuhanep/NLP-Product-Matching-Algorithm)**: An algorithm that uses a hybrid NLP model to match similar products with high accuracy.
+- **[AI-NLP-IR-Powered-Hybrid-Product-Matching](https://github.com/batuhanep/AI-NLP-IR-Powered-Hybrid-Product-Matching)**: An algorithm that uses a hybrid AI models to match similar products with high accuracy.
 - **[Demo-description-keyword-improvement](https://github.com/batuhanep/Demo-description-keyword-improvement)**: A script to extract relevant keywords from product descriptions using a hybrid semantic and statistical model.
 - **[Data-Science-Projects](https://github.com/batuhanep/Data-Science-Projects)**: A collection of my data science projects and experiments.
 

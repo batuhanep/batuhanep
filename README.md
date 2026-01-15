@@ -1,6 +1,6 @@
 ### Hi there, I'm Batuhan 👋
 
-I'm a Data Scientist & Data Analyst with a passion for turning data into actionable insights. My main focus is on machine learning, natural language processing, deep learning, data analysis. I enjoy tackling complex challenges and building efficient, scalable solutions.
+I'm a Data Science & Ops Specialist with a passion for turning data into actionable insights. My main focus is on machine learning, natural language processing, deep learning, data analysis. I enjoy tackling complex challenges and building efficient, scalable solutions.
 
 ---
 

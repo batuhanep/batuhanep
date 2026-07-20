@@ -4,7 +4,7 @@ I'm a Senior Operations Specialist at Mindsite, working at the intersection of o
 
 ## What I'm working on
 
-At Mindsite, I support decision-making in operations through data-driven methods:
+I support decision-making in operations through data-driven methods:
 
 - Using LLMs, embeddings, transformers, and RAG methods in day-to-day workflows
 - Web scraping and data collection with Python

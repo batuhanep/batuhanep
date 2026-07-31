@@ -14,8 +14,5 @@ I support decision-making through data-driven methods:
 ## Contact
 
 - LinkedIn: [linkedin.com/in/batuhan-özdemir-b073b21b9](https://www.linkedin.com/in/batuhan-özdemir-b073b21b9/)
-- GitHub: [github.com/batuhanep](https://github.com/batuhanep)
 - Medium: [medium.com/@ozdemirbatu.80](https://medium.com/@ozdemirbatu.80)
-- Tableau: [public.tableau.com/app/profile/batuhan.zdemir](https://public.tableau.com/app/profile/batuhan.zdemir)
-- Kaggle: [kaggle.com/batuhanep](https://www.kaggle.com/batuhanep)
 

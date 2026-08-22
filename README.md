@@ -6,7 +6,7 @@ I'm a Senior Operations Specialist at Mindsite, working at the intersection of o
 
 I support decision-making through data-driven methods:
 
-- Using lachine learning, LLMs, embeddings, transformers, and RAG methods in day-to-day workflows
+- Using machine learning, embeddings, transformers, and RAG methods in day-to-day workflows
 - Web scraping and data collection with Python
 - Building a retrieve-and-rerank approach that combines lexical and semantic search to improve product matching and search
 - Extracting and analyzing data with SQL

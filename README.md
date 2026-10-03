@@ -1,6 +1,6 @@
 # Hi, I'm Batuhan
 
-I am a Senior Operations Specialist at Mindsite, with a main focus on machine learning and natural language processing.
+I am a Senior Operations Specialist, with a main focus on machine learning and natural language processing.
 
 ## What I'm working on
 
